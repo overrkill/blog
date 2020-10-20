@@ -1,0 +1,79 @@
+baseURL: ''
+title: Overrkill
+paginate: 5
+theme: hugo-PaperMod
+
+params:
+  env: production
+  description: 'Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod'
+  author: Overrkill
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: true
+  profileMode:
+    enabled: true
+    title: Abhishek
+    subtitle: Hi, I'm a developer   
+    imageUrl: 'profile.jfif'
+    imageTitle: profile
+    buttons:
+      - name: Projects
+        url: projects
+      - name: Blog
+        url: post
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "Welcome to my blog"
+
+  socialIcons:
+    - name: codewars
+      url: 'https://www.codewars.com/users/abhishekkale'
+    - name: hackerrank
+      url: 'https://www.hackerrank.com/zabhishekkale'
+    - name: linkedin
+      url: 'https://linkedin.com/in/kaleabhishek'
+    - name: github
+      url: 'https://github.com/overrkill/'
+
+menu:
+  main:
+    - name: Blog
+      url: /post/
+      weight: 10
+    - name: Projects
+      url: /projects/
+      weight: 10
+    - name: About
+      url: /about
+      weight: 10
+    
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

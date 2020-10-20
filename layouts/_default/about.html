@@ -1,0 +1,41 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <span>      {{ .Title }}
+    </span>
+
+   
+    
+  </header>
+  {{- if .Params.cover.image }}
+  <figure class="entry-cover">
+    {{- if (ne .Params.cover.relative true) }}
+    <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Params.cover.alt | plainify }}">
+    {{- else}}
+    <img src="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" alt="{{ .Params.cover.alt | plainify }}">
+    {{- end}}
+    <p>{{.Params.cover.caption | markdownify }}</p>
+  </figure>
+  {{- end }}
+  
+  <div class="post-content">{{ .Content }}</div>
+  
+  <footer class="post-footer">
+    {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range .Params.tags }}
+      {{- $href := print (absLangURL "tags/") (urlize .) }}
+      <li><a href="{{ $href }}">{{ . }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    
+  </footer>
+
+  {{- if and ($.Site.Params.comments) (ne .Params.comments false) }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end  }}{{/* end main */}}
