@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-10-20T13:23:59+05:30
-draft: true
+draft: false
 layout: about
 cover:
     image: github_banner_overrkill.gif
@@ -16,7 +16,7 @@ cover:
 #### What I say !
 
 #### Stuff I know
-    
+
 #### To-Do
 
 - ✔️ Portfolio
