@@ -1,20 +1,20 @@
 baseURL: 'https://abhishekkale.me'
-title: Overrkill
+title: Overrkill 
 paginate: 5
 theme: hugo-PaperMod
 
 params:
   env: production
-  description: 'Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod'
+  description: 'Software Engineer and Co-founder Assist-U. Building Innovating Amazing applications Contributing to open source Open to collaborate on innovative projects' 
   author: Overrkill
   ShowReadingTime: true
   defaultTheme: auto
   ShowShareButtons: true
   profileMode:
     enabled: true
-    title: Abhishek
-    subtitle: Hi, I'm a developer   
-    imageUrl: 'profile.jfif'
+    title: Abhishek 
+    subtitle: Hi, I'm a Software Engineer  
+    imageUrl: 'overrkill_profile.jpg'
     imageTitle: profile
     buttons:
       - name: Projects
@@ -27,12 +27,16 @@ params:
     Content: "Welcome to my blog"
 
   socialIcons:
+    - name: instagram
+      url: 'https://instagram.com/overrkill.ig'
     - name: codewars
       url: 'https://www.codewars.com/users/abhishekkale'
     - name: hackerrank
       url: 'https://www.hackerrank.com/zabhishekkale'
     - name: linkedin
       url: 'https://linkedin.com/in/kaleabhishek'
+    - name: dev
+      url: 'https://dev.to/overrkill'
     - name: github
       url: 'https://github.com/overrkill/'
 
