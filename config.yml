@@ -1,4 +1,4 @@
-baseURL: 'https://abhishekkale.me'
+baseURL: '/'
 title: Overrkill 
 paginate: 5
 theme: hugo-PaperMod

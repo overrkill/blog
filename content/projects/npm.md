@@ -4,6 +4,8 @@ date: 2020-04-20T17:21:37+05:30
 draft: false
 cover:
     image: CARC.png
+git: "create-a-react-component"
+live: "https://npm.io/package/create-a-react-component"
 ---
 
 #### A npm package to help react developers create react components without worrying about directory structures
@@ -31,6 +33,6 @@ cover:
 a blog post is coming soon on writing nodejs scripts and publishing npm package
 
 
-check out npm package **[npm](npm.io/package/create-a-react-component)**
+check out npm package **[npm](https://npm.io/package/create-a-react-component)**
 
 View project on **[Github](https://github.com/overrkill/create-a-react-component)**

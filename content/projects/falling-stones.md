@@ -4,6 +4,8 @@ date: 2020-05-01T17:28:35+05:30
 draft: false
 cover:
     image: FS.png
+git: "falling-stones"
+live: "https://overrkill.github.io/falling-stones"
 ---
 
 ### browser based game using computer vision 
