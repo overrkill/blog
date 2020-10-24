@@ -1,11 +1,11 @@
-baseURL: '/'
+baseURL: 'https://abhishekkale.me'
 title: Overrkill 
 paginate: 5
 theme: hugo-PaperMod
 
 params:
   env: production
-  description: 'Software Engineer and Co-founder Assist-U. Building Innovating Amazing applications Contributing to open source Open to collaborate on innovative projects' 
+  description: Software Engineer and Co-founder Assist-U. Building Innovating Amazing applications Contributing to open source Open to collaborate on innovative projects
   author: Overrkill
   ShowReadingTime: true
   defaultTheme: auto

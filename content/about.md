@@ -8,11 +8,11 @@ cover:
 keywords: ['overrkill','Abhishek Kale','developer','engineer' ]
 ---
 
-[![](https://www.codewars.com/users/abhishekkale/badges/small)](https://www.codewars.com/users/abhishekkale) 
+
 
 
 #### Bio
->*Software Engineer and Co-founder of Assist-U. I have 4 years of experience working with Python and React with a focus on Rest API and frontend. In my spare time I enjoy messing with IOT devices, automating stuff and playing some music.*
+*Software Engineer and Co-founder of Assist-U. I have 4 years of experience working with Python and React with a focus on Rest API and frontend. In my spare time I enjoy messing with IOT devices, automating stuff and playing some music.*
 
 - 🌱 Currently learning **Rust**<br> 
 - 💻 Available to **collaborate** on innovative projects 
