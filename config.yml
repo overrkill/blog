@@ -20,7 +20,7 @@ params:
       - name: Projects
         url: projects
       - name: Resume
-        url: https://drive.google.com/file/d/1ISVGjnGX0xgWkWijygGLrgOUt07x41IH/view?usp=sharing
+        url: https://drive.google.com/file/d/1_oDgXSdLDVG0_KEORTCpWU5ep_Ve1uCh/view?usp=sharing
       - name: Blog
         url: post
 
