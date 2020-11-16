@@ -5,7 +5,7 @@ theme: hugo-PaperMod
 
 params:
   env: production
-  description: Software Engineer and Co-founder Assist-U. Building Innovating Amazing applications Contributing to open source Open to collaborate on innovative projects
+  description: Software Engineer and Co-founder Assist-U. Building Innovating  Contributing to open source and always Open to collaborate on innovative projects
   author: Overrkill
   ShowReadingTime: true
   defaultTheme: auto
@@ -19,8 +19,6 @@ params:
     buttons:
       - name: Projects
         url: projects
-      - name: Resume
-        url: https://drive.google.com/file/d/1_oDgXSdLDVG0_KEORTCpWU5ep_Ve1uCh/view?usp=sharing
       - name: Blog
         url: post
 

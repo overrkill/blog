@@ -11,12 +11,11 @@ keywords: ['overrkill','Abhishek Kale','developer','engineer' ]
 
 
 
-#### Bio
-*Software Engineer and Co-founder of Assist-U. I have 4 years of experience working with Python and React with a focus on Rest API and frontend. In my spare time I enjoy messing with IOT devices, automating stuff and playing some music.*
+*Software Engineer . I have been working on web development for the past 4 years . In my spare time I enjoy messing with IOT devices, automating stuff and playing some music.*
 
-- 🌱 Currently learning **Rust**<br> 
+- 🌱 Currently learning **Kotlin**<br> 
 - 💻 Available to **collaborate** on innovative projects 
-- 📧 write me at [email](mailto:zabhishekkale@gmail.com) <br> 
+- 📧 write me a [email](mailto:zabhishekkale@gmail.com) <br> 
 - 📌 Every **progrmammer** is an **Author**  <br>
 
 #### Stuff I know
@@ -25,7 +24,7 @@ keywords: ['overrkill','Abhishek Kale','developer','engineer' ]
         languages  : [ 'C++','Python','Javascript','Typescript'],
         frameworks : [ 'Express', 'React' , 'flask' , 'Django' ],
         databases  : [ 'Firestore','Mongodb','Mysql'],
-        Misc       : [ 'Firebase','Netlify' ,'AWS']
+        Misc       : [ 'Firebase','Netlify' ,'AWS','Heroku']
     }
 ```
 #### To-Do
